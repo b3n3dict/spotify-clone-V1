@@ -1,0 +1,6 @@
+
+spotify 
+client_id = 83bb77e04f5e4f41996d3259b12a01bc
+
+spotify_acces_tokken
+BQBAGjK4V0DxtFUqbY8t53uWY5qdbLGZUaHI-QXuP4_cZkIQ8UX9xwJ93dmCPP1m6zLZH39N_Zhc7SmAcYVvWUQN4wug1Ch7wz2UjD1MT-DoUfe1eoexX2FmqqGqw1s4nNZSCHIBRvspD0-xJGjELUbpEVZHQZYi3lGl1rBtc4Fxdt2yRCI

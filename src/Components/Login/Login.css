@@ -1,0 +1,30 @@
+.login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color:black;
+}
+
+.login >img{
+    width: 50%;
+}
+
+.login > a{
+    border-radius: 99px;
+    padding: 20px;
+    background-color: #1db954;
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+    transition: all 0.5s ease;
+}
+
+.login > a:hover{
+     background-color: #1ed760;
+}
+
+@media screen and (max-width:600px) {
+    .login >img{
+        width: 100%;
+    }
+}
