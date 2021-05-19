@@ -1,0 +1,13 @@
+.player_body{
+    display: flex;
+}
+.player_body {
+    display: flex;
+    flex-grow: 1;
+  }
+
+  @media screen and (max-width:600px) {
+      .player_body{
+          width: 124%;
+      }
+  }

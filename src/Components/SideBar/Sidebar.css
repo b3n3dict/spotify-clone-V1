@@ -1,0 +1,25 @@
+.sidebar{
+    border: 1px solid black;
+    height: 100vh;
+    flex: 0.2;
+    padding:0 10px;
+    background-color: #040404;
+    color: #fff;
+     min-width:230px;    
+}
+.sidebar_logo{
+    margin-right: auto;
+    height: 80px;
+    padding: 10px;
+
+}
+.sidebar_title{
+    margin-left:10px ;
+    padding: 5px;
+    font-size: 12px;
+}
+@media screen and (max-width:600px) {
+    .sidebar{
+        display:none;
+    }
+}
